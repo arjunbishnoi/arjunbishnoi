@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arjun Bishnoi
 - 👀 I’m interested in Designing and programming.
-- 💞️ I’m looking to collaborate on an exciting project where I can learn something new.
+- 💞️ I’m looking to collaborate and learn something new.
 - 📫 You can reach me at arjunbishnoi1@gmail.com
 
 <!---
