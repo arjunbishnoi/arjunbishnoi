@@ -1,6 +1,8 @@
-# Hi there, I'm Arjun Bishnoi 👋
+# Arjun Bishnoi
 
-## Full Stack Developer & UI/UX Designer
+## Cross-platform App Developer
+## UI/UX Designer
+## AI Engineer
 
 I'm a passionate developer and designer based in **Toronto, Ontario**, focused on creating polished, user-centric digital experiences. I specialize in building high-performance web and mobile applications using modern technologies.
 
